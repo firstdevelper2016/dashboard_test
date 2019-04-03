@@ -1,4 +1,4 @@
 <?php
 echo "Test page working---";
-eccho "new line added":
+echo "new line added":
 ?>
